@@ -52,6 +52,7 @@ eniac-ab-test/
 ├── eniac_case_analysis.ipynb
 │
 └── README.md
+└──Eniac_AB_Testing_Presentation.ppt
 
 ---
 
